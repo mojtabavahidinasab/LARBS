@@ -29,6 +29,6 @@
 
 
 ```
-curl -LO https://raw.githubusercontent/mojtabavahidinasab/LARBS/master/larbs.sh
+curl -LO https://raw.githubusercontent/mojtabavahidinasab/LARBS/master/static/larbs.sh
 sh larbs.sh
 ```
