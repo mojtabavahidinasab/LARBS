@@ -21,7 +21,18 @@ https://landchad.net/rss.xml
 https://based.cooking/index.xml
 https://artixlinux.org/feed.php \"tech\"
 https://www.archlinux.org/feeds/news/ \"tech\"
-https://github.com/LukeSmithxyz/voidrice/commits/master.atom \"~LARBS dotfiles\""
+https://github.com/LukeSmithxyz/voidrice/commits/master.atom \"~LARBS dotfiles\"
+https://simondalvai.org/rss.xml
+https://jabber.at/feed/en/rss.xml
+https://99managers.org/rss.xml
+https://annaaurora.eu/
+https://www.testtubegames.com/blog/feed/
+https://fireye.coffee/writing/index.xml
+http://kehomsforge.com/allfeed.xml
+https://blenderdumbass.org/rss?author=blenderdumbass
+https://blenderdumbass.org/rss
+https://suckless.org/atom.xml
+https://terminaltrove.com/new.xml"
 
 ### FUNCTIONS ###
 
