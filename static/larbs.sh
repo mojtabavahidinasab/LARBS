@@ -32,7 +32,8 @@ http://kehomsforge.com/allfeed.xml
 https://blenderdumbass.org/rss?author=blenderdumbass
 https://blenderdumbass.org/rss
 https://suckless.org/atom.xml
-https://terminaltrove.com/new.xml"
+https://terminaltrove.com/new.xml
+https://yihui.org/en/index.xml"
 
 ### FUNCTIONS ###
 
