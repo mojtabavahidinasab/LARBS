@@ -27,6 +27,15 @@
 	- بسته `entr`
 	- بسته `ipython`
 	- بسته `stardict` و `sdcv` فرهنگ‌نامه برون‌خط
+	- `xorg-xev`
+	- `copyparty`
+	- دبیرگان:
+		- `ttf-symbola`
+		- `otf-symbola`
+		- `bdf-unifont`
+		- `otf-unifont`
+		- `ttf-amiri`
+		- `ttf-amiri-typewriter`
 
 
 ## کارگزاری
