@@ -33,6 +33,7 @@ https://blenderdumbass.org/rss?author=blenderdumbass
 https://blenderdumbass.org/rss
 https://suckless.org/atom.xml
 https://terminaltrove.com/new.xml
+https://kennydodrill.com/index.xml
 https://yihui.org/en/index.xml"
 
 ### FUNCTIONS ###
